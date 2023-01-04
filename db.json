@@ -62,13 +62,7 @@
         "image": "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=800",
         "price": 108,
         "category": "Digital"
-      },
-      {
-        "id": 10,
-        "name": "Watch 5",
-        "image": "https://images.pexels.com/photos/280250/pexels-photo-280250.jpeg?auto=compress&cs=tinysrgb&w=800",
-        "price": 109,
-        "category": "Chronograph"
       }
+      
     ]
   }
